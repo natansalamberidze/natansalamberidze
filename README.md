@@ -21,9 +21,9 @@
 
 ### :man_technologist: About Me :
 
-I'm a student at the Riga Technical University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> of Latvia.
+I'm a student at Riga Technical University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> of Latvia.
 
-- :telescope: I'm actively looking for a job related to databases.
+- :telescope: I'm actively looking for a database-related job.
 
 - :seedling: Exploring Technical Content Writing.
 
