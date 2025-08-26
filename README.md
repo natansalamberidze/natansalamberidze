@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-Future Web Developer | Turning Ideas into Websites | Eager to Join Innovative Teams. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Aspiring Web Developer | Skilled in HTML, CSS, JavaScrip | Eager to Join Innovative Teams. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: Web Developer in Progress | Frontend Enthusiast.
 
