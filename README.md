@@ -23,11 +23,11 @@
 
 Future Web Developer | Turning Ideas into Websites | Eager to Join Innovative Teams. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I'm actively looking for a database-related job.
+- :telescope: Web Developer in Progress | Frontend Enthusiast.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Passionate About Clean Code & Modern UI/UX.
 
-- :zap: In my free time, I solve problems on SQL-EX and read tech articles.
+- :zap: In my free time, I turn ideas into websites.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natans-%C5%A1alamberidze-b90499283/)
 
