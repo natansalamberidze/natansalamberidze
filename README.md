@@ -1,5 +1,5 @@
 <div id="header" align="center">
-     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXl6ZzhzNG9ubzc3bDNpejM1aHJqajMyeTBmbmxrYThvaHducGZyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CqXALXwCrQanqRwAcE/giphy.gif" width="300"/>
+     <img src="https://media.giphy.com/media/IHkILvQZ94BxMdBHp0/giphy.gif" width="500"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/natans-%C5%A1alamberidze-b90499283/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,17 +9,19 @@
   </a>
 </div>
      
-<h1>
-     Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=36&center=true&vCenter=true&width=500&lines=Hello+there!;I+am+a+Web+Developer" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWo4aWplYXl0M3hvbHp4aGN3Z3Q3YmJucHRrZmlwejR1azVzd202aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gyTCwb0j00Gl2QKlLa/giphy.gif" width="60px"/>
+
+--- 
+
 <div align="center">
-  <img src="https://media.giphy.com/media/IHkILvQZ94BxMdBHp0/giphy.gif" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBrbXZ2aW0yb3lycGltanoycWNmM3BiNmI5ZmY4Y2MxOTdsMndnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
 </div>
      
 --- 
 
 ### :man_technologist: About Me :
+<img src="https://img.shields.io/badge/status-active-brightgreen" />
 
 Aspiring Web Developer | Skilled in HTML, CSS, JavaScrip, React | Eager to Join Innovative Teams. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
