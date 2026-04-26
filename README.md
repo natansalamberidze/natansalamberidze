@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-Aspiring Web Developer | Skilled in HTML, CSS, JavaScrip | Eager to Join Innovative Teams. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Aspiring Web Developer | Skilled in HTML, CSS, JavaScrip, React | Eager to Join Innovative Teams. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: Web Developer in Progress | Frontend Enthusiast.
 
@@ -37,7 +37,18 @@ Aspiring Web Developer | Skilled in HTML, CSS, JavaScrip | Eager to Join Innovat
 <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Js" **alt="Js" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/postcss/postcss-original.svg" title="Postcss" **alt="Postcss" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" **alt="Tailwindcss" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" title="NPM" **alt="NPM" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VScode" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" **alt="Vite" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQLDeveloper"  alt="SQLDeveloper" width="40" height="40"/>&nbsp;
 </div>
