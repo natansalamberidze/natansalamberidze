@@ -26,7 +26,8 @@
 
   - :zap: In my free time, I turn ideas into websites and android apps.
 
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natans-%C5%A1alamberidze-b90499283/)
+  - :mailbox: How to reach me: [![Write me an email here!!](https://shields.io)](mailto:natans.salamberidze.com)
+  - 
 </div>
 
 ---
