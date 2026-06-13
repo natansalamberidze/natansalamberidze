@@ -1,6 +1,6 @@
 <div id="header" align="center">
      <img src="waves.svg" width="100%"/>
-     <img src="https://readme-typing-svg.herokuapp.com/?color=ed0000&size=36&center=true&vCenter=true&width=500&lines=Hello+there!;I+am+a+Web+Developer" />
+     <img src="https://readme-typing-svg.herokuapp.com/?color=ed0000&size=36&center=true&vCenter=true&width=500&lines=Hello+there!;I+am+a+Junior+Developer" />
 <div/>
      
 <img src="https://media.giphy.com/media/IHkILvQZ94BxMdBHp0/giphy.gif" width="500"/>
@@ -18,13 +18,13 @@
 <div id="about_me">
   <img src="https://img.shields.io/badge/status-active-brightgreen" width="100px"/>
 
-  Aspiring Web Developer | Skilled in HTML, CSS, JavaScrip, React | Eager to Join Innovative Teams. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+  Aspiring Web and Android Developer| Skilled in HTML, CSS, JavaScrip, React, Kotlin, Jetpack Compose| Eager to Join Innovative Teams. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
-  - :telescope: Web Developer in Progress | Frontend Enthusiast.
+  - :telescope: Junior Developer in Progress | Frontend Enthusiast.
 
   - :seedling: Passionate About Clean Code & Modern UI/UX.
 
-  - :zap: In my free time, I turn ideas into websites.
+  - :zap: In my free time, I turn ideas into websites and android apps.
 
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natans-%C5%A1alamberidze-b90499283/)
 </div>
